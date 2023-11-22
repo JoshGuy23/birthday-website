@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{640007D8-BF7A-470F-A79F-B513A1E543D4}"
+	ProjectSection(SolutionItems) = preProject
+		3.4 Birthday Invite Project\goal.png = 3.4 Birthday Invite Project\goal.png
+		3.4 Birthday Invite Project\index.html = 3.4 Birthday Invite Project\index.html
+		3.4 Birthday Invite Project\solution.html = 3.4 Birthday Invite Project\solution.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFEAB576-79B2-4AC9-BF7F-132EB07B99B0}
+	EndGlobalSection
+EndGlobal
